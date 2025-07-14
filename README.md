@@ -1,16 +1,15 @@
-# xo_game
+## ❌⭕ XO Game – Flutter App
 
-A new Flutter project.
+A simple and fun **Tic-Tac-Toe (XO) Game** built using Flutter. This app allows two players to take turns and play the classic game on a 3x3 grid.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎮 Features
 
-A few resources to get you started if this is your first Flutter project:
+* 🎯 Two-player mode (same device)
+* 🧠 Game logic with win/draw detection
+* 🔄 Game reset functionality
+* 🎨 Clean, responsive UI with Flutter
+* ✅ Visual indicators for turns and winners
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
